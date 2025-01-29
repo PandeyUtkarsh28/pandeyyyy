@@ -1,15 +1,10 @@
-# [FurniCraft 🪑🛋️](https://furnicraft-react-redux.netlify.app/)
+
 
 ## Overview
 
 FurniCraft is a project aimed at creating an efficient and user-friendly online furniture store. It utilizes various technologies to provide a seamless experience for users browsing through furniture products, managing their cart items, and placing orders. The project incorporates features such as user authentication, product filtering, pagination, error handling, and more.
 
-## veiw
 
-https://github.com/PradipSable07/FurniCraft-React_Redux/assets/96158817/515d5bee-f459-4b3f-ab45-4e416aae7637
-
-
-video is only for demo purpose for more emmersive exprience visit [website](https://furnicraft-react-redux.netlify.app/)
 
 ## Project Structure
 
@@ -94,7 +89,7 @@ src
 - CRUD operations for cart items
 - Checkout page for users to finalize their orders
 - Order page for users to view all their past orders
-- Integration with API documented at [https://documenter.getpostman.com/view/18152321/2s9Xy5KpTi] for fetching product data and managing orders.
+
 
 ## Technologies Used
 
@@ -112,18 +107,10 @@ src
 
 ## Contact
 
-For any inquiries or feedback, please get in touch with me at [sablepradipsubhash@gmail.com](mailto:sablepradipsubhash@gmail.com) or [Here](https://linktr.ee/pss.tech).
-
-🙏 Thank you for exploring FurniCraft! 🪑🛋️
-
 
 ## How to Run FurniCraft Locally
 
 1. **Clone the Repository**: 
-   Clone the FurniCraft repository from GitHub using the following command:
-   ```sh
-   git clone https://github.com/PradipSable07/FurniCraft-React_Redux.git
-   ```
 
 2. **Install Dependencies**: 
    Navigate to the project directory and install the required dependencies using npm or yarn:
